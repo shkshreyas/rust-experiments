@@ -20,7 +20,7 @@ Check out my [**collection of articles**](https://www.onbusinessplan.com/) for a
 
 Kickstart your Rust journey with a fun introduction to Rust syntax—all served desi style!
 
-[See 01-namaste-cargo folder](01-hello-cargo)
+[See 01-namaste-cargo folder](01-namaste-cargo)
 
 ### Features
 
@@ -39,7 +39,7 @@ Kickstart your Rust journey with a fun introduction to Rust syntax—all served 
 
 Dive into Rust with this interactive guessing game that makes learning both practical and fun.
 
-[See 02-anuman-khelo folder](02-guessing-game)
+[See 02-anuman-khelo folder](02-anuman-khelo)
 
 ### Features
 
@@ -56,7 +56,7 @@ Dive into Rust with this interactive guessing game that makes learning both prac
 
 Experience the power of Rust with this mini version of grep, designed for speed and clarity in command line operations.
 
-[See 03-chhota-grep folder](03-minigrep)
+[See 03-chhota-grep folder](03-chhota-grep)
 
 ### Features
 
@@ -74,7 +74,7 @@ Experience the power of Rust with this mini version of grep, designed for speed 
 
 Build a multithreaded web server that sends out warm “namaste” greetings, demonstrating practical networking in Rust.
 
-[See 04-namaste-server folder](04-hello)
+[See 04-namaste-server folder](04-namaste-server)
 
 ### Features
 
@@ -91,11 +91,11 @@ Build a multithreaded web server that sends out warm “namaste” greetings, de
 
 Explore the dynamics of the Game of Life in a zero-player setting, combining Rust with WebAssembly and JavaScript for a truly interactive experience.
 
-[See 05-zindagi-ka-khel folder](05-game-of-life)
+[See 05-zindagi-ka-khel folder](05-zindagi-ka-khel)
 
 <p align="center">
-    <a href="05-game-of-life">
-        <img src="05-game-of-life/screenshot.png" alt="Zindagi Ka Khel Screenshot">
+    <a href="05-zindagi-ka-khel">
+        <img src="05-zindagi-ka-khel/screenshot.png" alt="Zindagi Ka Khel Screenshot">
     </a>
 </p>
 
