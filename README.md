@@ -10,11 +10,6 @@ Here are 5 engaging projects designed to help you grasp Rust's core concepts—w
 | 04  | [**Namaste Server**](#namasteserver) | A multithreaded web server that warmly greets users with a “namaste”.                           |
 | 05  | [**Zindagi Ka Khel**](#zindagikakhel) | A zero-player Game of Life to explore Rust, WebAssembly, and JavaScript in a playful way.       |
 
-## Get Inspired
-
-Check out my [**collection of articles**](https://www.onbusinessplan.com/) for all things Rust. Whether you're just starting or looking for advanced tips, you'll find plenty of motivational content to keep you coding!
-
----
 
 ## <a name="namastecargo"></a> 1) Namaste Cargo
 
